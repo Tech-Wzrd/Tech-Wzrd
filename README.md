@@ -1,5 +1,5 @@
-### Hi there 👋
-# Welcome To My GitHub Profile✌️
+## Hi there 👋
+### Welcome To My GitHub Profile✌️
 <!--
 **Tech-Wzrd/Tech-Wzrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
